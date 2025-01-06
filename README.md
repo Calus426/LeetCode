@@ -25,4 +25,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1801-average-time-of-process-per-machine](https://github.com/Calus426/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Calus426/LeetCode/tree/master/1827-invalid-tweets) |
 | [2087-confirmation-rate](https://github.com/Calus426/LeetCode/tree/master/2087-confirmation-rate) |
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Calus426/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Calus426/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
