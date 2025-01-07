@@ -14,13 +14,11 @@ public class Solution {
                 {
                     first = i+1;
                     sec=j+1;
+                    return new int[] {first,sec};
                 }
             }
         }
-        if(first == 0 && sec == 0)
-        {
-            return new int[] {0,1};
-        }
+        
         return new int[] {first,sec};
     }
 }
