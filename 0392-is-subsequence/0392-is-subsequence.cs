@@ -19,14 +19,7 @@ public class Solution {
                 }
             }
       
-
         }
-        if(checkIndex==s.Length){
-            return true;
-        }
-        else
-        {
-            return false;
-        }
+        return checkIndex==s.Length?true:false;
     }
 }
