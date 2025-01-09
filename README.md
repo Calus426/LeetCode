@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Calus426/LeetCode/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/Calus426/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Calus426/LeetCode/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -53,4 +54,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Calus426/LeetCode/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Calus426/LeetCode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Calus426/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
