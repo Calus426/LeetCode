@@ -1,0 +1,3 @@
+/* Write your T-SQL query statement below */
+SELECT P.firstName,p.lastName,A.city,A.state
+FROM Person P LEFT JOIN Address A on P.personId = A.personId
