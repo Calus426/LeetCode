@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Calus426/LeetCode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Calus426/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Calus426/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Calus426/LeetCode/tree/master/0217-contains-duplicate) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Calus426/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Calus426/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Calus426/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Calus426/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Calus426/LeetCode/tree/master/0392-is-subsequence) |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Calus426/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Calus426/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Calus426/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Calus426/LeetCode/tree/master/0383-ransom-note) |
@@ -82,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Calus426/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Calus426/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Calus426/LeetCode/tree/master/0242-valid-anagram) |
 ## Linked List
