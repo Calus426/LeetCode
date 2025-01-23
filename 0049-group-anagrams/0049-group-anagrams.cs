@@ -9,14 +9,14 @@ public class Solution {
         
         foreach(string word in strs)
         {
-            int[] count = new int[26];
+            int[] count = new int[26]; //alphabet = 26 words
 
             foreach(char cha in word)
             {
-                count[cha - 'a']++;
+                count[cha - 'a']++; //example c - a = 2, a-a = 0. ASCII CODE
             }
 
-            StringBuilder sb = new();
+            StringBuilder sb = new(); //to be append
             for(int i =0;i<26;i++)
             {
                 sb.Append("#");
@@ -24,11 +24,11 @@ public class Solution {
             }
             string key = sb.ToString();
 
-            if(!anagram.ContainsKey(key))
+            if(!anagram.ContainsKey(key)) //if not contain, create
             {
                 anagram[key] = new List<string>();
             }
-            anagram[key].Add(word);
+            anagram[key].Add(word); //add value to the key.
         }
         return new List<IList<string>>(anagram.Values);
     }
