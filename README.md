@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Calus426/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Calus426/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Stack
 |  |
@@ -116,4 +117,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Calus426/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Calus426/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
