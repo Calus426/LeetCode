@@ -1,26 +1,26 @@
 public class Solution {
     public int MySqrt(int x) {
-        long left =0;
-        long right = x;
-        long mid ;
+        int left =0;
+        int right = x;
+        int mid ;
 
         while(left <= right)
         {
             mid = left + (right - left) / 2;
 
-            if(mid * mid > x)
+            if((long)mid * mid > x)
             {
                 right = mid - 1;
             }
 
-            else if(mid * mid < x){
+            else if((long)mid * mid < x){
                 left = mid + 1;
             }
 
             else{
-                 return (int)mid;
+                 return mid;
             }
         }
-        return (int)right;
+        return right;
     }
 }
