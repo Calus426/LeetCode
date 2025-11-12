@@ -18,13 +18,10 @@ public class Solution {
                 }
             }
             else{
-                hash.Add(pattern[i],word[i]);
-                if(stored.ContainsKey(word[i])){
+                if(hash.ContainsValue(word[i])){
                     return false;
                 }
-                else{
-                    stored.Add(word[i],1);
-                }
+                hash.Add(pattern[i],word[i]);        
             }
         }
 
