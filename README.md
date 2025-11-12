@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Calus426/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Calus426/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Calus426/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Calus426/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Calus426/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Calus426/LeetCode/tree/master/0392-is-subsequence) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Calus426/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Calus426/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Calus426/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Calus426/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Calus426/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Calus426/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Calus426/LeetCode/tree/master/0383-ransom-note) |
 ## Counting
