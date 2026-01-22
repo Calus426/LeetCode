@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1811-fix-names-in-a-table](https://github.com/Calus426/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Calus426/LeetCode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/Calus426/LeetCode/tree/master/1837-daily-leads-and-partners) |
+| [1873-calculate-special-bonus](https://github.com/Calus426/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [2087-confirmation-rate](https://github.com/Calus426/LeetCode/tree/master/2087-confirmation-rate) |
 ## Array
 |  |
