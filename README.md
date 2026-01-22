@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1734-bank-account-summary-ii](https://github.com/Calus426/LeetCode/tree/master/1734-bank-account-summary-ii) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Calus426/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Calus426/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1795-rearrange-products-table](https://github.com/Calus426/LeetCode/tree/master/1795-rearrange-products-table) |
 | [1801-average-time-of-process-per-machine](https://github.com/Calus426/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/Calus426/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Calus426/LeetCode/tree/master/1827-invalid-tweets) |
