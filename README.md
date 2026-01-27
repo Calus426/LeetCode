@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Calus426/LeetCode/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/Calus426/LeetCode/tree/master/0263-ugly-number) |
 ## Sliding Window
 |  |
 | ------- |
