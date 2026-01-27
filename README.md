@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0262-trips-and-users](https://github.com/Calus426/LeetCode/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Calus426/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Calus426/LeetCode/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/Calus426/LeetCode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Calus426/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-more-than-5-students](https://github.com/Calus426/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/Calus426/LeetCode/tree/master/0610-triangle-judgement) |
