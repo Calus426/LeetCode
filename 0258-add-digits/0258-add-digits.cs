@@ -1,6 +1,5 @@
 public class Solution {
     public int AddDigits(int num) {
-        int count = 0;
         int f = 0;
         int s =0;
 
