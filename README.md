@@ -144,9 +144,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Calus426/LeetCode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Calus426/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Calus426/LeetCode/tree/master/0263-ugly-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Calus426/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Calus426/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Calus426/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
